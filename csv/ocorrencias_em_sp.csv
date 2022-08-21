@@ -1,4 +1,4 @@
-periodo ,item,tipo_ocorrencia,ocorrencia,obs,fonte,link,data_capital,data_grandesp,data_interior,data_deinter1,data_deinter2,data_deinter3,data_deinter4,data_deinter5,data_deinter6,data_deinter7,data_deinter8,data_deinter9,data_estado
+periodo,item,tipo_ocorrencia,ocorrencia,obs,fonte,link,data_capital,data_grandesp,data_interior,data_deinter1,data_deinter2,data_deinter3,data_deinter4,data_deinter5,data_deinter6,data_deinter7,data_deinter8,data_deinter9,data_estado
 20094,NULL,"Ocorrências policiais registradas, por natureza",Contra a pessoa,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR ,,31903,25695,104441,10511,13919,15847,1065,13076,7964,12299,5089,15086,162039
 20094,NULL,"Ocorrências policiais registradas, por natureza",Contra o patrimonio,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,104542,44738,129044,13163,23454,20202,10147,13012,1489,12943,387,17363,278324
 20094,NULL,"Ocorrências policiais registradas, por natureza",Contra os costumes,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,854,672,236,173,278,318,266,415,207,356,77,270,3886
