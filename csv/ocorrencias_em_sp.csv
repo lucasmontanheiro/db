@@ -1,0 +1,407 @@
+periodo ,item,tipo_ocorrencia,ocorrencia,obs,fonte,link,data_capital,data_grandesp,data_interior,data_deinter1,data_deinter2,data_deinter3,data_deinter4,data_deinter5,data_deinter6,data_deinter7,data_deinter8,data_deinter9,data_estado
+20094,NULL,"Ocorrências policiais registradas, por natureza",Contra a pessoa,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR ,,31903,25695,104441,10511,13919,15847,1065,13076,7964,12299,5089,15086,162039
+20094,NULL,"Ocorrências policiais registradas, por natureza",Contra o patrimonio,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,104542,44738,129044,13163,23454,20202,10147,13012,1489,12943,387,17363,278324
+20094,NULL,"Ocorrências policiais registradas, por natureza",Contra os costumes,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,854,672,236,173,278,318,266,415,207,356,77,270,3886
+20094,NULL,"Ocorrências policiais registradas, por natureza",Entorpecentes,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1632,1122,8026,793,966,164,719,761,610,870,455,1212,1078
+20094,NULL,"Ocorrências policiais registradas, por natureza",Contravencionais,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,3712,3803,17127,154,2091,2947,1854,2076,842,2483,842,2452,24642
+20094,NULL,"Ocorrências policiais registradas, por natureza",Outros criminais (não inclui contravenções),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,5607,4355,17021,1667,2018,2769,1471,2636,1409,1873,857,2321,26983
+20094,NULL,"Ocorrências policiais registradas, por natureza","Total de Crimes Violentos ( HomDoloso, Roubo, Latrocínio, Estupro e EMS)",NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,37675,1661,23766,3085,5832,2294,907,1355,4541,1854,230,3668,78051
+20094,NULL,"Ocorrências policiais registradas, por natureza",Total de delitos,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,14825,80385,278019,27847,42726,43723,25107,31976,25922,30824,1119,38704,506654
+20094,NULL,"Ocorrências policiais registradas, por natureza",Não Criminais,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,7282,37113,103276,10199,13644,16034,841,11725,8881,12123,6212,16048,213209
+20094,NULL,Atividades de polícia judiciária,Total de boletins de ocorrência,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,162399,114974,361558,368,5221,57721,33298,40979,30407,39062,17998,53083,638931
+20094,NULL,Atividades de polícia judiciária,Total de termos circunstanciados lavrados pela Polícia Civil (2),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,3481,6123,42718,3927,5784,6097,6246,6237,242,3532,3514,4961,52322
+20094,NULL,Atividades de polícia judiciária,Total de inquéritos instaurados,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,24809,16945,48543,5829,6436,7534,4658,5881,4212,5827,245,5716,90297
+20094,NULL,Ocorrências envolvendo policiais civis (3),Pessoas mortas em confronto com a polícia civil em serviço(9),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,0,3,0,0,0,0,0,0,0,0,0,0,3
+20094,NULL,Ocorrências envolvendo policiais civis (3),Pessoas mortas por policiais civis de folga(9),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,0,0,1,0,0,0,0,0,0,0,0,1,1
+20094,NULL,Ocorrências envolvendo policiais civis (3),Pessoas feridas em confronto com a polícia civil em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,2,1,3,0,0,1,0,0,1,0,0,1,6
+20094,NULL,Ocorrências envolvendo policiais civis (3),Pessoas feridas por policiais civis de folga,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1,0,0,0,0,0,0,0,0,0,0,0,1
+20094,NULL,Ocorrências envolvendo policiais civis (3),Policiais civis mortos em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,0,0,1,0,1,0,0,0,0,0,0,0,1
+20094,NULL,Ocorrências envolvendo policiais civis (3),Policiais civis feridos em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1,2,11,0,0,2,1,2,2,1,2,1,14
+20094,NULL,Atividades policiais,Prisões efetuadas (em flagrante+ por mandado),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,6955,5205,17307,2128,2551,1879,1732,1659,1902,2447,686,2323,29467
+20094,NULL,Atividades policiais,Nº de pessoas presas em flagrante,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,7667,3941,1416,1594,21,2145,1205,1361,1553,1738,560,1904,25768
+20094,NULL,Atividades policiais,Nº de pessoas presas por mandado,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,2192,2067,9088,900,924,1489,1091,1203,746,1267,453,1015,13347
+20094,NULL,Atividades policiais,Nº de autos de apreensão (art 173 ECA),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,717,280,102,119,131,379,60,64,82,93,12,80,2017
+20094,NULL,Atividades policiais,Nº de infratores apreendidos em flagrante,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,563,456,1691,199,246,422,82,107,314,112,19,190,271
+20094,NULL,Atividades policiais,Nº de infratores apreendidos por mandado,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,70,55,377,18,20,28,43,83,57,45,29,54,502
+20094,NULL,Atividades policiais,Nº de revistas pessoais/ identificação,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,711973,400256,1812439,181188,163684,408498,129368,185494,164405,181255,73328,189727,2924668
+20094,NULL,Atividades policiais,Armas de fogo apreendidas,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1538,979,2745,246,368,400,279,252,323,398,105,374,5262
+20094,NULL,Atividades policiais,Nº de Veículos Recuperados,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,7241,3599,6642,688,1721,798,306,420,874,609,71,1155,17482
+20094,NULL,Atividades policiais,Exames Necroscópicos Realizados - IML(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,239,1785,3858,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,8033
+20094,NULL,Atividades policiais,Laudos Necroscópicos Expedidos - IML(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,211,1593,3753,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,7456
+20094,NULL,Atividades policiais,Exames Clínicos Laboratoriais Realizados - IML(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,39914,18243,53543,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1117
+20094,NULL,Atividades policiais,Laudos Clínicos Laboratoriais Expedidos - IML(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,37769,17872,53255,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,108896
+20094,NULL,Atividades policiais,Exames Periciais Realizados - IC(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,41396,24075,938,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,159271
+20094,NULL,Atividades policiais,Laudos Periciais Expedidos - IC(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,38481,18912,75254,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,132647
+20094,NULL,Ocorrências envolvendo policiais militares (4),Pessoas mortas em confronto com a polícia militar em serviço(9),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,66,46,33,8,2,3,0,3,13,3,0,1,145
+20094,NULL,Ocorrências envolvendo policiais militares (4),Pessoas mortas por policiais militares de folga(9),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,0,0,0,0,0,0,0,0,0,0,0,0,0
+20094,NULL,Ocorrências envolvendo policiais militares (4),Pessoas feridas em confronto com a polícia militar em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,33,12,36,4,4,5,2,4,9,3,1,4,81
+20094,NULL,Ocorrências envolvendo policiais militares (4),Pessoas feridas por policiais militares de folga,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,0,0,0,0,0,0,0,0,0,0,0,0,0
+20094,NULL,Ocorrências envolvendo policiais militares (4),Policiais militares mortos em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,0,1,0,0,0,0,0,0,0,0,0,0,1
+20094,NULL,Ocorrências envolvendo policiais militares (4),Policiais militares feridos em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,47,31,37,3,1,10,2,3,11,2,3,2,115
+20094,NULL,"Ocorrências policiais registradas, por tipo",Homicídio doloso,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,328,303,538,91,82,62,33,42,77,70,9,72,1169
+20094,NULL,"Ocorrências policiais registradas, por tipo",Nº de Vítimas em Homicídio Doloso,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,348,321,555,93,87,64,33,44,78,72,9,75,1224
+20094,NULL,"Ocorrências policiais registradas, por tipo",Homicídio culposo por Acidente de Trânsito,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,159,162,828,82,119,126,87,101,81,91,37,104,1149
+20094,NULL,"Ocorrências policiais registradas, por tipo",Homicídio Culposo(8),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,179,174,879,90,123,138,92,111,84,96,38,107,1232
+20094,NULL,"Ocorrências policiais registradas, por tipo",Tentativa de homicídio,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,297,283,789,109,102,101,66,104,99,109,19,80,1369
+20094,NULL,"Ocorrências policiais registradas, por tipo",Lesão corporal dolosa,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,10768,807,3181,2975,4281,5008,3218,3775,2584,3884,1682,4403,50648
+20094,NULL,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa por Acidente de Trânsito,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,6603,5379,23086,1928,3224,288,2584,3822,125,2346,1057,3995,35068
+20094,NULL,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa outras,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,419,152,669,109,140,108,35,134,30,40,10,63,124
+20094,NULL,"Ocorrências policiais registradas, por tipo",Latrocínio,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,21,6,25,2,6,4,2,1,3,1,0,6,52
+20094,NULL,"Ocorrências policiais registradas, por tipo",Nº de Vítimas de Latrocínio,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,21,6,25,2,6,4,2,1,3,1,0,6,52
+20094,NULL,"Ocorrências policiais registradas, por tipo",Estupro,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,658,449,1231,109,145,202,85,147,156,205,29,153,2338
+20094,NULL,"Ocorrências policiais registradas, por tipo",Extorsão mediante seqüestro (6),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,8,3,7,0,4,0,0,0,3,0,0,0,18
+20094,NULL,"Ocorrências policiais registradas, por tipo",Tráfico de entorpecentes,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1561,1015,4827,614,709,869,362,480,447,528,173,645,7403
+20094,NULL,"Ocorrências policiais registradas, por tipo",Roubo - outros(7),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,28644,11605,18197,242,4113,1856,736,1011,3836,1331,181,2713,58446
+20094,NULL,"Ocorrências policiais registradas, por tipo",Roubo de veículos,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,8016,4244,3768,463,1482,170,51,154,466,247,11,724,16028
+20094,NULL,"Ocorrências policiais registradas, por tipo",Roubo a Banco,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,57,5,12,1,2,3,0,0,1,2,0,3,74
+20094,NULL,"Ocorrências policiais registradas, por tipo",Roubo de Carga,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1268,426,246,17,74,33,8,4,27,14,1,68,194
+20094,NULL,"Ocorrências policiais registradas, por tipo",Furto - outros,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,44673,16192,70839,73,10447,12735,6012,8315,7282,7631,2472,8645,131704
+20094,NULL,"Ocorrências policiais registradas, por tipo",Furto de veículos,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,9698,4354,9674,949,2263,1531,407,658,973,979,109,1805,23726
+20101,NULL,"Ocorrências policiais registradas, por natureza",Contra a pessoa,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR ,,30168,24882,98939,10142,13131,14904,9746,11891,8224,11577,5028,14296,153989
+20101,NULL,"Ocorrências policiais registradas, por natureza",Contra o patrimônio,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,95565,43003,128671,13746,23053,19267,10216,12784,16304,12692,3662,16947,267239
+20101,NULL,"Ocorrências policiais registradas, por natureza",Contra os costumes,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,876,655,2061,212,311,235,166,218,231,304,81,303,3592
+20101,NULL,"Ocorrências policiais registradas, por natureza",Entorpecentes,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1371,112,8081,684,1009,1637,805,663,647,948,405,1283,10572
+20101,NULL,"Ocorrências policiais registradas, por natureza",Contravencionais,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,3315,3229,15738,1304,202,2737,1699,1773,817,2086,778,2524,22282
+20101,NULL,"Ocorrências policiais registradas, por natureza",Outros criminais (não inclui contravenções),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,5419,3916,1648,1711,1898,2713,1346,2605,1614,1828,789,1976,25815
+20101,NULL,"Ocorrências policiais registradas, por natureza","Total de Crimes Violentos ( HomDoloso, Roubo, Latrocínio, Estupro e EMS)",NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,36591,16798,24614,3127,5862,2266,1009,1523,477,2018,235,3804,78003
+20101,NULL,"Ocorrências policiais registradas, por natureza",Total de delitos,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,136714,76805,26997,27799,41422,41493,23978,29934,27837,29435,10743,37329,483489
+20101,NULL,"Ocorrências policiais registradas, por natureza",Não Criminais,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,63992,347,104144,10907,14066,15647,8247,11445,10553,10938,6307,16034,202836
+20101,NULL,Atividades de polícia judiciária,Total de boletins de ocorrência,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,152796,11021,353185,37506,50969,55081,3173,39364,32412,36987,17477,51659,616191
+20101,NULL,Atividades de polícia judiciária,Total de termos circunstanciados lavrados pela Polícia Civil (2),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,3217,4977,39545,3429,5447,5631,5429,5555,2508,3243,3481,4822,47739
+20101,NULL,Atividades de polícia judiciária,Total de inquéritos instaurados,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,232,16077,47386,5834,6287,7118,456,5844,3972,5626,2401,5744,86663
+20101,NULL,Ocorrências envolvendo policiais civis (3),Pessoas mortas em confronto com a polícia civil em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,0,1,0,0,0,0,0,0,0,0,0,0,1
+20101,NULL,Ocorrências envolvendo policiais civis (3),Pessoas mortas por policiais civis de folga,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1,1,0,0,0,0,0,0,0,0,0,0,2
+20101,NULL,Ocorrências envolvendo policiais civis (3),Pessoas feridas em confronto com a polícia civil em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,3,1,4,0,0,3,0,0,1,0,0,0,8
+20101,NULL,Ocorrências envolvendo policiais civis (3),Pessoas feridas por policiais civis de folga,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,0,0,0,0,0,0,0,0,0,0,0,0,0
+20101,NULL,Ocorrências envolvendo policiais civis (3),Policiais civis mortos em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,0,0,1,0,0,0,0,1,0,0,0,0,1
+20101,NULL,Ocorrências envolvendo policiais civis (3),Policiais civis feridos em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1,0,10,0,0,7,1,1,0,0,0,1,11
+20101,NULL,Atividades policiais,Prisões efetuadas (em flagrante+ por mandado),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,6063,4905,17074,2068,2428,1884,1726,1726,1846,2394,625,2377,28042
+20101,NULL,Atividades policiais,Nº de pessoas presas em flagrante,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,7063,4037,14546,1643,2179,2128,1324,147,1488,1852,491,1971,25646
+20101,NULL,Atividades policiais,Nº de pessoas presas por mandado,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,2034,1675,8077,779,770,1305,1034,1053,679,1022,448,987,11786
+20101,NULL,Atividades policiais,Nº de autos de apreensão (art 173 ECA),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,618,305,102,112,126,346,64,60,78,93,15,126,1943
+20101,NULL,Atividades policiais,Nº de infratores apreendidos em flagrante,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,482,481,1499,188,225,401,90,107,139,120,22,207,2462
+20101,NULL,Atividades policiais,Nº de infratores apreendidos por mandado,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,59,60,375,10,31,38,62,51,48,45,31,59,494
+20101,NULL,Atividades policiais,Nº de revistas pessoais/ identificação,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,576901,324351,1826263,218174,152233,366081,123955,197202,157498,172403,68161,212857,2727515
+20101,NULL,Atividades policiais,Armas de fogo apreendidas,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1558,893,241,219,375,357,229,283,232,312,83,320,4861
+20101,NULL,Atividades policiais,Nº de Veículos Recuperados,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,7412,3417,6977,723,19,720,315,475,851,618,84,1291,17806
+20101,NULL,Atividades policiais,Exames Necroscópicos Realizados - IML(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,2555,1776,377,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,8101
+20101,NULL,Atividades policiais,Laudos Necroscópicos Expedidos - IML(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1428,1371,3398,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,6197
+20101,NULL,Atividades policiais,Exames Clínicos Laboratoriais Realizados - IML(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,38853,1861,51802,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,109265
+20101,NULL,Atividades policiais,Laudos Clínicos Laboratoriais Expedidos - IML(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,31754,16398,48706,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,96858
+20101,NULL,Atividades policiais,Exames Periciais Realizados - IC(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,39061,23344,89141,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,151546
+20101,NULL,Atividades policiais,Laudos Periciais Expedidos - IC(5),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,2295,12028,49339,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,84317
+20101,NULL,Ocorrências envolvendo policiais militares (4),Pessoas mortas em confronto com a polícia militar em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,71,41,34,3,7,3,1,6,8,2,0,4,146
+20101,NULL,Ocorrências envolvendo policiais militares (4),Pessoas mortas por policiais militares de folga,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,0,0,0,0,0,0,0,0,0,0,0,0,0
+20101,NULL,Ocorrências envolvendo policiais militares (4),Pessoas feridas em confronto com a polícia militar em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,35,13,34,2,6,7,2,4,7,2,4,0,82
+20101,NULL,Ocorrências envolvendo policiais militares (4),Pessoas feridas por policiais militares de folga,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,0,0,0,0,0,0,0,0,0,0,0,0,0
+20101,NULL,Ocorrências envolvendo policiais militares (4),Policiais militares mortos em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1,0,4,0,2,1,0,1,0,0,0,0,5
+20101,NULL,Ocorrências envolvendo policiais militares (4),Policiais militares feridos em serviço,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,31,20,23,2,6,1,0,6,2,3,0,3,74
+20101,NULL,"Ocorrências policiais registradas, por tipo",Homicídio doloso,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,376,284,564,92,75,73,50,53,85,66,22,48,1224
+20101,NULL,"Ocorrências policiais registradas, por tipo",Nº de Vítimas em Homicídio Doloso,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,398,309,595,103,78,74,52,56,86,73,24,49,1302
+20101,NULL,"Ocorrências policiais registradas, por tipo",Homicídio culposo por Acidente de Trânsito,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,146,179,694,61,109,98,61,86,97,77,32,73,1019
+20101,NULL,"Ocorrências policiais registradas, por tipo",Homicídio Culposo(8),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,156,186,736,69,115,103,65,88,103,84,32,77,1078
+20101,NULL,"Ocorrências policiais registradas, por tipo",Tentativa de homicídio,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,312,278,808,118,86,88,57,115,97,132,26,89,1398
+20101,NULL,"Ocorrências policiais registradas, por tipo",Lesão corporal dolosa,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,9408,7574,28855,2916,3746,4449,2796,333,2676,3391,1542,4009,45837
+20101,NULL,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa por Acidente de Trânsito,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,6137,4707,2107,176,3077,2821,2181,3242,131,2037,1,3642,31914
+20101,NULL,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa outras,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,322,141,681,116,149,95,97,87,37,41,11,48,1144
+20101,NULL,"Ocorrências policiais registradas, por tipo",Latrocínio,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,25,12,36,6,4,5,4,1,4,4,3,5,73
+20101,NULL,"Ocorrências policiais registradas, por tipo",Nº de Vítimas de Latrocínio,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,25,14,36,6,4,5,4,1,4,4,3,5,75
+20101,NULL,"Ocorrências policiais registradas, por tipo",Estupro,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,638,492,1193,131,166,154,74,155,148,202,38,125,2323
+20101,NULL,"Ocorrências policiais registradas, por tipo",Extorsão mediante seqüestro (6),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,13,4,8,0,1,1,1,0,3,1,0,1,25
+20101,NULL,"Ocorrências policiais registradas, por tipo",Tráfico de entorpecentes,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1326,104,501,589,704,871,435,485,471,604,149,702,7376
+20101,NULL,"Ocorrências policiais registradas, por tipo",Roubo - outros(7),NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,26769,11676,18916,2444,4074,1859,839,118,4139,147,164,2747,57361
+20101,NULL,"Ocorrências policiais registradas, por tipo",Roubo de veículos,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,877,433,3897,454,1542,174,41,134,391,275,8,878,16997
+20101,NULL,"Ocorrências policiais registradas, por tipo",Roubo a Banco,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,48,6,12,2,3,2,1,0,1,2,0,1,66
+20101,NULL,"Ocorrências policiais registradas, por tipo",Roubo de Carga,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,1069,432,218,9,71,24,5,2,34,18,0,55,1719
+20101,NULL,"Ocorrências policiais registradas, por tipo",Furto - outros,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,38431,15208,70028,7335,10148,1225,6279,7728,8331,7512,2301,8144,123667
+20101,NULL,"Ocorrências policiais registradas, por tipo",Furto de veículos,NULL,DEPARTAMENTO DE POLÍCIA CIVIL E DA POLÍCIA MILITAR,,9932,419,10037,976,2388,1307,374,738,1244,1012,96,1902,24159
+20102,,"Ocorrências policiais registradas, por natureza",Contra a pessoa,,,,28679,23113,95208,9051,12918,15113,873,12266,7322,111,4672,14036,147000
+20102,,"Ocorrências policiais registradas, por natureza",Contra o patrimonio,,,,10133,44039,124224,12973,2296,19118,934,12712,1468,12211,3519,16711,269593
+20102,,"Ocorrências policiais registradas, por natureza",Contra os costumes,,,,807,701,2163,191,310,310,198,266,210,345,89,244,3671
+20102,,"Ocorrências policiais registradas, por natureza",Entorpecentes,,,,1392,1141,7275,686,904,1477,773,628,456,847,350,1154,9808
+20102,,"Ocorrências policiais registradas, por natureza",Contravencionais,,,,341,3369,15186,1309,2072,2547,1523,1778,652,2053,746,2506,21965
+20102,,"Ocorrências policiais registradas, por natureza",Outros criminais (não inclui contravenções),,,,5222,4043,16316,1577,1929,2694,135,2552,1355,1797,839,2223,25581
+20102,,"Ocorrências policiais registradas, por natureza","Total de Crimes Violentos ( HomDoloso, Roubo, Latrocínio, Estupro e EMS)",,,,37958,17536,2494,3316,6156,2352,980,1427,4692,198,221,3816,80434
+20102,,"Ocorrências policiais registradas, por natureza",Total de delitos,,,,14084,76406,260372,25787,41093,41259,21914,30202,24675,28353,10215,36874,477618
+20102,,"Ocorrências policiais registradas, por natureza",Não Criminais,,,,68701,33552,98385,9756,13952,15627,7616,11223,8405,1056,5841,15405,200638
+20102,,Atividades de polícia judiciária,Total de boletins de ocorrência,,,,156893,108293,344165,35038,5105,55339,29481,39898,29007,36481,16701,5117,609351
+20102,,Atividades de polícia judiciária,Total de termos circunstanciados lavrados pela Polícia Civil (2),,,,3089,4548,37609,2908,5058,5321,5557,5458,2026,2916,348,4885,45246
+20102,,Atividades de polícia judiciária,Total de inquéritos instaurados,,,,23748,1634,48546,5595,626,7785,478,5758,4217,5922,2419,581,88634
+20102,,Ocorrências envolvendo policiais civis (3),Pessoas mortas em confronto com a polícia civil em serviço,,,,1,1,4,3,0,0,0,0,0,0,0,1,6
+20102,,Ocorrências envolvendo policiais civis (3),Pessoas mortas por policiais civis de folga,,,,0,1,0,0,0,0,0,0,0,0,0,0,1
+20102,,Ocorrências envolvendo policiais civis (3),Pessoas feridas em confronto com a polícia civil em serviço,,,,3,3,4,0,0,2,2,0,0,0,0,0,10
+20102,,Ocorrências envolvendo policiais civis (3),Pessoas feridas por policiais civis de folga,,,,2,0,0,0,0,0,0,0,0,0,0,0,2
+20102,,Ocorrências envolvendo policiais civis (3),Policiais civis mortos em serviço,,,,2,1,2,0,0,1,0,0,0,1,0,0,5
+20102,,Ocorrências envolvendo policiais civis (3),Policiais civis feridos em serviço,,,,6,0,8,2,1,2,0,0,0,3,0,0,14
+20102,,Atividades policiais,Prisões efetuadas (em flagrante+ por mandado),,,,6379,5048,16437,205,2539,1948,1624,1463,168,2206,645,2282,27864
+20102,,Atividades policiais,Nº de pessoas presas em flagrante,,,,6907,3991,13536,1548,2089,2155,1213,122,1313,1719,487,1792,24434
+20102,,Atividades policiais,Nº de pessoas presas por mandado,,,,2223,1804,8316,839,930,1507,998,106,624,994,441,923,12343
+20102,,Atividades policiais,Nº de autos de apreensão (art 173 ECA),,,,714,258,1064,151,161,326,79,60,60,108,14,105,2036
+20102,,Atividades policiais,Nº de infratores apreendidos em flagrante,,,,507,533,162,240,250,382,110,81,141,143,55,218,266
+20102,,Atividades policiais,Nº de infratores apreendidos por mandado,,,,74,45,350,28,27,30,36,43,76,46,18,46,469
+20102,,Atividades policiais,Nº de revistas pessoais/ identificação,,,,681487,315962,1747890,199491,148619,372626,121663,191441,160572,167771,67,200931,2745339
+20102,,Atividades policiais,Armas de fogo apreendidas,,,,149,846,2422,222,386,293,213,210,310,343,111,334,4758
+20102,,Atividades policiais,Nº de Veículos Recuperados,,,,7533,3765,673,759,1732,739,276,461,738,602,109,1314,18028
+20102,,Atividades policiais,Exames Necroscópicos Realizados - IML(5),,,,2414,1613,3755,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,7782
+20102,,Atividades policiais,Laudos Necroscópicos Expedidos - IML(5),,,,2191,1504,3721,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,7416
+20102,,Atividades policiais,Exames Clínicos Laboratoriais Realizados - IML(5),,,,40537,17931,51987,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,110455
+20102,,Atividades policiais,Laudos Clínicos Laboratoriais Expedidos - IML(5),,,,38738,19009,51535,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,109282
+20102,,Atividades policiais,Exames Periciais Realizados - IC(5),,,,41144,23821,92203,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,157168
+20102,,Atividades policiais,Laudos Periciais Expedidos - IC(5),,,,34607,17819,70607,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,123033
+20102,,Ocorrências envolvendo policiais militares (4),Pessoas mortas em confronto com a polícia militar em serviço,,,,70,31,27,0,6,1,1,3,8,2,0,6,128
+20102,,Ocorrências envolvendo policiais militares (4),Pessoas mortas por policiais militares de folga,,,,0,0,0,0,0,0,0,0,0,0,0,0,0
+20102,,Ocorrências envolvendo policiais militares (4),Pessoas feridas em confronto com a polícia militar em serviço,,,,22,10,43,4,3,5,0,1,9,6,5,10,75
+20102,,Ocorrências envolvendo policiais militares (4),Pessoas feridas por policiais militares de folga,,,,1,0,0,0,0,0,0,0,0,0,0,0,1
+20102,,Ocorrências envolvendo policiais militares (4),Policiais militares mortos em serviço,,,,3,0,0,0,0,0,0,0,0,0,0,0,3
+20102,,Ocorrências envolvendo policiais militares (4),Policiais militares feridos em serviço,,,,62,7,38,0,11,3,6,0,6,1,5,6,107
+20102,,"Ocorrências policiais registradas, por tipo",Homicídio doloso,,,,284,269,501,68,93,55,36,32,69,58,18,72,1054
+20102,,"Ocorrências policiais registradas, por tipo",Nº de Vítimas em Homicídio Doloso,,,,298,287,525,70,103,55,37,34,71,65,18,72,111
+20102,,"Ocorrências policiais registradas, por tipo",Homicídio culposo por Acidente de Trânsito,,,,213,165,852,97,121,152,68,91,95,112,37,79,123
+20102,,"Ocorrências policiais registradas, por tipo",Homicídio Culposo(8),,,,230,182,890,103,127,156,71,101,100,112,38,82,1302
+20102,,"Ocorrências policiais registradas, por tipo",Tentativa de homicídio,,,,240,234,706,120,78,100,48,76,84,91,21,88,118
+20102,,"Ocorrências policiais registradas, por tipo",Lesão corporal dolosa,,,,8519,6903,2611,2447,3613,4252,2353,3034,2102,3249,1366,3694,41532
+20102,,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa por Acidente de Trânsito,,,,6711,5226,23777,1789,3532,326,2279,4119,1244,2274,1065,4215,35714
+20102,,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa outras,,,,499,125,629,109,137,101,31,83,28,53,22,65,1253
+20102,,"Ocorrências policiais registradas, por tipo",Latrocínio,,,,16,14,31,4,8,3,1,1,6,4,0,4,61
+20102,,"Ocorrências policiais registradas, por tipo",Nº de Vítimas de Latrocínio,,,,16,14,31,4,8,3,1,1,6,4,0,4,61
+20102,,"Ocorrências policiais registradas, por tipo",Estupro,,,,605,497,1371,119,160,179,108,201,168,250,45,141,2473
+20102,,"Ocorrências policiais registradas, por tipo",Extorsão mediante seqüestro (6),,,,8,4,9,0,3,2,0,0,1,0,0,3,21
+20102,,"Ocorrências policiais registradas, por tipo",Tráfico de entorpecentes,,,,1401,1083,4891,631,704,862,441,427,381,614,142,689,7375
+20102,,"Ocorrências policiais registradas, por tipo",Roubo - outros(7),,,,28338,12175,19008,2614,4195,1898,788,1065,4062,1419,144,2823,59521
+20102,,"Ocorrências policiais registradas, por tipo",Roubo de veículos,,,,8707,4577,402,511,1697,215,47,128,386,249,14,773,17304
+20102,,"Ocorrências policiais registradas, por tipo",Roubo a Banco,,,,38,5,11,4,1,4,0,0,0,0,0,2,54
+20102,,"Ocorrências policiais registradas, por tipo",Roubo de Carga,,,,1093,417,248,15,92,22,3,5,40,19,1,51,1758
+20102,,"Ocorrências policiais registradas, por tipo",Furto - outros,,,,4166,151,67171,6575,10437,12238,5772,7675,6904,7221,2223,8126,123931
+20102,,"Ocorrências policiais registradas, por tipo",Furto de veículos,,,,10553,4323,9558,1023,2187,1304,375,701,1152,994,119,1703,24434
+20103,,"Ocorrências policiais registradas, por natureza",Contra a pessoa,,,,29985,23672,97468,9131,13608,15554,9592,12296,7284,10958,4628,14417,151125
+20103,,"Ocorrências policiais registradas, por natureza",Contra o patrimonio,,,,108773,45919,122964,12904,22894,19146,9191,11881,15276,1184,3399,16433,277656
+20103,,"Ocorrências policiais registradas, por natureza",Contra os costumes,,,,874,678,2235,187,300,318,225,246,218,334,82,325,3787
+20103,,"Ocorrências policiais registradas, por natureza",Entorpecentes,,,,1473,1228,8188,761,927,1769,808,774,540,902,413,1294,10889
+20103,,"Ocorrências policiais registradas, por natureza",Contravencionais,,,,3791,3463,15054,1403,1954,2596,1612,1809,754,1987,666,2273,22308
+20103,,"Ocorrências policiais registradas, por natureza",Outros criminais (não inclui contravenções),,,,5654,4349,19658,1797,2227,3196,1648,3565,15,188,107,2775,29661
+20103,,"Ocorrências policiais registradas, por natureza","Total de Crimes Violentos ( HomDoloso, Roubo, Latrocínio, Estupro e EMS)",,,,38262,17432,23986,3179,5715,2508,1019,1319,4773,1697,195,3581,7968
+20103,,"Ocorrências policiais registradas, por natureza",Total de delitos,,,,15055,79309,265567,26183,4191,42579,23076,30571,25572,27901,10258,37517,495426
+20103,,"Ocorrências policiais registradas, por natureza",Não Criminais,,,,7671,36657,10549,11468,14177,17555,857,12254,7954,11132,617,1621,218857
+20103,,Atividades de polícia judiciária,Total de boletins de ocorrência,,,,16178,112456,356718,37036,51897,58567,31718,4152,30237,36783,16982,51978,630954
+20103,,Atividades de polícia judiciária,Total de termos circunstanciados lavrados pela Polícia Civil (2),,,,3416,4453,38408,3216,4934,5388,6377,5389,2208,2718,3413,4765,46277
+20103,,Atividades de polícia judiciária,Total de inquéritos instaurados,,,,23532,16181,47908,529,6162,7567,461,5974,408,5461,2339,6425,87621
+20103,,Ocorrências envolvendo policiais civis (3),Pessoas mortas em confronto com a polícia civil em serviço,,,,1,4,2,0,0,0,0,0,1,1,0,0,7
+20103,,Ocorrências envolvendo policiais civis (3),Pessoas mortas por policiais civis de folga,,,,0,0,1,0,0,0,0,1,0,0,0,0,1
+20103,,Ocorrências envolvendo policiais civis (3),Pessoas feridas em confronto com a polícia civil em serviço,,,,3,1,3,2,0,0,0,0,0,0,1,0,7
+20103,,Ocorrências envolvendo policiais civis (3),Pessoas feridas por policiais civis de folga,,,,0,0,2,1,0,0,0,0,1,0,0,0,2
+20103,,Ocorrências envolvendo policiais civis (3),Policiais civis mortos em serviço,,,,1,0,2,0,2,0,0,0,0,0,0,0,3
+20103,,Ocorrências envolvendo policiais civis (3),Policiais civis feridos em serviço,,,,2,6,8,0,0,1,0,0,0,1,3,3,16
+20103,,Atividades policiais,Prisões efetuadas (em flagrante+ por mandado),,,,6616,4936,16068,1964,2317,1998,1556,1586,1628,2321,611,2087,2762
+20103,,Atividades policiais,Nº de pessoas presas em flagrante,,,,7,3931,1336,1474,1873,2191,1188,1289,1325,1748,510,1762,24291
+20103,,Atividades policiais,Nº de pessoas presas por mandado,,,,2216,1762,7439,776,810,1231,832,954,595,1072,397,772,11417
+20103,,Atividades policiais,Nº de autos de apreensão (art 173 ECA),,,,709,306,1192,126,161,375,97,71,130,105,19,108,2207
+20103,,Atividades policiais,Nº de infratores apreendidos em flagrante,,,,642,609,1687,175,253,431,121,88,198,142,45,234,2938
+20103,,Atividades policiais,Nº de infratores apreendidos por mandado,,,,100,48,358,21,31,49,42,49,78,23,21,44,506
+20103,,Atividades policiais,Nº de revistas pessoais/ identificação,,,,776656,307209,1813193,194086,157991,418235,123261,198397,164535,163874,68919,189308,2897058
+20103,,Atividades policiais,Armas de fogo apreendidas,,,,144,760,2322,211,304,392,239,280,236,265,82,313,4522
+20103,,Atividades policiais,Nº de Veículos Recuperados,,,,7693,3748,6725,804,1717,815,333,429,827,533,77,119,18166
+20103,,Atividades policiais,Exames Necroscópicos Realizados - IML(5),,,,245,1655,3578,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,7683
+20103,,Atividades policiais,Laudos Necroscópicos Expedidos - IML(5),,,,2625,1409,3508,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,7542
+20103,,Atividades policiais,Exames Clínicos Laboratoriais Realizados - IML(5),,,,40964,18384,53764,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,113112
+20103,,Atividades policiais,Laudos Clínicos Laboratoriais Expedidos - IML(5),,,,40172,17615,5334,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,111127
+20103,,Atividades policiais,Exames Periciais Realizados - IC(5),,,,44448,24935,95477,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,16486
+20103,,Atividades policiais,Laudos Periciais Expedidos - IC(5),,,,46919,21245,7586,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,144024
+20103,,Ocorrências envolvendo policiais militares (4),Pessoas mortas em confronto com a polícia militar em serviço,,,,55,22,23,2,7,2,1,3,2,3,0,3,100
+20103,,Ocorrências envolvendo policiais militares (4),Pessoas mortas por policiais militares de folga,,,,0,0,0,0,0,0,0,0,0,0,0,0,0
+20103,,Ocorrências envolvendo policiais militares (4),Pessoas feridas em confronto com a polícia militar em serviço,,,,33,11,19,1,5,4,1,0,2,2,1,3,63
+20103,,Ocorrências envolvendo policiais militares (4),Pessoas feridas por policiais militares de folga,,,,1,2,0,0,0,0,0,0,0,0,0,0,3
+20103,,Ocorrências envolvendo policiais militares (4),Policiais militares mortos em serviço,,,,3,0,1,0,0,1,0,0,0,0,0,0,4
+20103,,Ocorrências envolvendo policiais militares (4),Policiais militares feridos em serviço,,,,53,10,36,3,6,3,2,0,12,2,4,4,99
+20103,,"Ocorrências policiais registradas, por tipo",Homicídio doloso,,,,269,200,470,75,86,62,47,39,34,49,12,66,939
+20103,,"Ocorrências policiais registradas, por tipo",Nº de Vítimas em Homicídio Doloso,,,,284,206,479,76,88,63,49,40,34,50,12,67,969
+20103,,"Ocorrências policiais registradas, por tipo",Homicídio culposo por Acidente de Trânsito,,,,177,179,860,65,126,160,82,116,74,90,39,108,1216
+20103,,"Ocorrências policiais registradas, por tipo",Homicídio Culposo(8),,,,199,189,918,74,136,165,85,128,77,97,41,115,1306
+20103,,"Ocorrências policiais registradas, por tipo",Tentativa de homicídio,,,,270,234,659,85,74,104,58,89,54,85,19,91,1163
+20103,,"Ocorrências policiais registradas, por tipo",Lesão corporal dolosa,,,,8847,7206,26828,2468,3579,442,2725,32,2101,3123,1403,3809,42881
+20103,,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa por Acidente de Trânsito,,,,6655,52,2327,17,3535,3382,2414,369,1245,226,1015,4029,35125
+20103,,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa outras,,,,380,195,633,63,148,86,40,164,39,41,16,36,1208
+20103,,"Ocorrências policiais registradas, por tipo",Latrocínio,,,,27,11,31,2,9,4,3,2,4,4,2,1,69
+20103,,"Ocorrências policiais registradas, por tipo",Nº de Vítimas de Latrocínio,,,,27,11,31,2,9,4,3,2,4,4,2,1,69
+20103,,"Ocorrências policiais registradas, por tipo",Estupro,,,,670,506,1411,117,148,202,137,174,184,231,52,166,2587
+20103,,"Ocorrências policiais registradas, por tipo",Extorsão mediante seqüestro (6),,,,4,3,4,1,1,0,0,0,0,2,0,0,11
+20103,,"Ocorrências policiais registradas, por tipo",Tráfico de entorpecentes,,,,1501,1177,5365,628,705,104,436,547,423,661,180,745,8043
+20103,,"Ocorrências policiais registradas, por tipo",Roubo - outros(7),,,,2858,12177,182,254,3793,2046,786,1001,409,1225,116,2603,58957
+20103,,"Ocorrências policiais registradas, por tipo",Roubo de veículos,,,,8712,4535,3872,446,1678,194,46,103,461,186,13,745,17119
+20103,,"Ocorrências policiais registradas, por tipo",Roubo a Banco,,,,28,2,11,2,1,4,1,0,1,1,0,1,41
+20103,,"Ocorrências policiais registradas, por tipo",Roubo de Carga,,,,1045,443,233,19,83,14,2,2,53,21,0,39,1721
+20103,,"Ocorrências policiais registradas, por tipo",Furto - outros,,,,46729,16444,66624,6758,10557,11999,5553,7275,7113,7135,2227,8007,129797
+20103,,"Ocorrências policiais registradas, por tipo",Furto de veículos,,,,119,5152,10116,1075,2452,1464,400,589,124,966,87,1843,27168
+20104,,"Ocorrências policiais registradas, por natureza",Contra a pessoa,,,,30321,24277,101493,9623,13723,159,9663,12933,79,11481,5045,15225,156091
+20104,,"Ocorrências policiais registradas, por natureza",Contra o patrimonio,,,,103964,4464,124682,13778,22903,18499,9245,11585,16257,12235,3232,16948,273286
+20104,,"Ocorrências policiais registradas, por natureza",Contra os costumes,,,,813,666,2099,199,273,351,200,253,178,305,84,256,3578
+20104,,"Ocorrências policiais registradas, por natureza",Entorpecentes,,,,1311,1103,8452,725,997,1756,779,876,570,984,435,133,10866
+20104,,"Ocorrências policiais registradas, por natureza",Contravencionais,,,,3441,346,15242,1341,2015,2566,1534,1792,787,2087,745,2375,22143
+20104,,"Ocorrências policiais registradas, por natureza",Outros criminais (não inclui contravenções),,,,5192,4053,1707,1559,2038,2604,1506,2772,1595,1802,976,2218,26315
+20104,,"Ocorrências policiais registradas, por natureza","Total de Crimes Violentos ( HomDoloso, Roubo, Latrocínio, Estupro e EMS)",,,,36824,16982,24089,3351,5692,2339,979,1241,4849,163,207,3801,77895
+20104,,"Ocorrências policiais registradas, por natureza",Total de delitos,,,,145042,78199,269038,27225,41949,41676,22927,30211,27287,28894,10517,38352,492279
+20104,,"Ocorrências policiais registradas, por natureza",Não Criminais,,,,76144,35629,109478,13001,13549,17705,844,11374,9251,11808,6429,17921,221251
+20104,,Atividades de polícia judiciária,Total de boletins de ocorrência,,,,16051,111025,361714,39446,51793,57896,31849,40151,30691,37628,17458,54802,633249
+20104,,Atividades de polícia judiciária,Total de termos circunstanciados lavrados pela Polícia Civil (2),,,,3221,4321,37452,3278,472,538,5702,5159,225,2941,3427,4595,44994
+20104,,Atividades de polícia judiciária,Total de inquéritos instaurados,,,,23794,15987,46337,5353,6219,749,4533,5437,4075,5136,2251,5843,86118
+20104,,Ocorrências envolvendo policiais civis (3),Pessoas mortas em confronto com a polícia civil em serviço (9),,,,1,0,0,0,0,0,0,0,0,0,0,0,1
+20104,,Ocorrências envolvendo policiais civis (3),Pessoas mortas por policiais civis de folga (9),,,,1,0,2,0,0,0,1,0,0,1,0,0,3
+20104,,Ocorrências envolvendo policiais civis (3),Pessoas feridas em confronto com a polícia civil em serviço,,,,5,1,3,0,0,1,0,0,1,0,0,1,9
+20104,,Ocorrências envolvendo policiais civis (3),Pessoas feridas por policiais civis de folga,,,,0,0,2,0,0,1,0,0,1,0,0,0,2
+20104,,Ocorrências envolvendo policiais civis (3),Policiais civis mortos em serviço,,,,1,1,0,0,0,0,0,0,0,0,0,0,2
+20104,,Ocorrências envolvendo policiais civis (3),Policiais civis feridos em serviço,,,,2,3,1,0,0,0,0,0,0,1,0,0,6
+20104,,Atividades policiais,Prisões efetuadas (em flagrante+ por mandado),,,,611,4344,15599,19,2363,1881,1557,1541,1669,2086,592,201,26053
+20104,,Atividades policiais,Nº de pessoas presas em flagrante,,,,6401,3789,13286,1493,2029,2091,1193,1341,1342,1653,518,1626,23476
+20104,,Atividades policiais,Nº de pessoas presas por mandado,,,,1829,1298,6898,708,722,117,876,814,578,901,347,782,10025
+20104,,Atividades policiais,Nº de autos de apreensão (art 173 ECA),,,,731,271,1123,140,167,337,81,69,90,112,18,109,2125
+20104,,Atividades policiais,Nº de infratores apreendidos em flagrante,,,,546,544,1711,168,260,409,121,113,209,166,57,208,2801
+20104,,Atividades policiais,Nº de infratores apreendidos por mandado,,,,56,36,393,30,57,43,38,43,90,31,22,39,485
+20104,,Atividades policiais,Nº de revistas pessoais/ identificação,,,,657054,297046,1727066,170498,139745,407207,123048,181002,14294,15683,71329,1734,2681166
+20104,,Atividades policiais,Armas de fogo apreendidas,,,,1398,837,2379,202,373,345,230,225,292,316,114,282,4614
+20104,,Atividades policiais,Nº de Veículos Recuperados,,,,7909,3821,6688,739,1635,859,334,387,818,569,91,1256,18418
+20104,,Atividades policiais,Exames Necroscópicos Realizados - IML(5),,,,1578,1097,2573,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5248
+20104,,Atividades policiais,Laudos Necroscópicos Expedidos - IML(5),,,,1458,1017,2336,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4811
+20104,,Atividades policiais,Exames Clínicos Laboratoriais Realizados - IML(5),,,,2643,12153,38125,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,76708
+20104,,Atividades policiais,Laudos Clínicos Laboratoriais Expedidos - IML(5),,,,25847,12328,37062,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,75237
+20104,,Atividades policiais,Exames Periciais Realizados - IC(5),,,,42969,23698,92322,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,158989
+20104,,Atividades policiais,Laudos Periciais Expedidos - IC(5),,,,35541,17314,74248,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,127103
+20104,,Ocorrências envolvendo policiais militares (4),Pessoas mortas em confronto com a polícia militar em serviço (9),,,,60,39,22,0,4,2,3,1,10,1,0,1,121
+20104,,Ocorrências envolvendo policiais militares (4),Pessoas mortas por policiais militares de folga (9),,,,0,0,0,0,0,0,0,0,0,0,0,0,0
+20104,,Ocorrências envolvendo policiais militares (4),Pessoas feridas em confronto com a polícia militar em serviço,,,,31,11,50,2,8,9,3,8,9,2,3,6,92
+20104,,Ocorrências envolvendo policiais militares (4),Pessoas feridas por policiais militares de folga,,,,0,0,0,0,0,0,0,0,0,0,0,0,0
+20104,,Ocorrências envolvendo policiais militares (4),Policiais militares mortos em serviço,,,,2,0,0,0,0,0,0,0,0,0,0,0,2
+20104,,Ocorrências envolvendo policiais militares (4),Policiais militares feridos em serviço,,,,54,10,33,1,2,9,0,5,6,5,2,3,97
+20104,,"Ocorrências policiais registradas, por tipo",Homicídio doloso,,,,267,277,559,88,79,65,41,64,71,55,17,79,1103
+20104,,"Ocorrências policiais registradas, por tipo",Nº de Vítimas em Homicídio Doloso,,,,283,292,587,92,81,68,44,65,74,58,19,86,1162
+20104,,"Ocorrências policiais registradas, por tipo",Homicídio culposo por Acidente de Trânsito,,,,158,186,829,89,144,136,62,92,96,105,17,88,1173
+20104,,"Ocorrências policiais registradas, por tipo",Homicídio Culposo(8),,,,173,197,874,99,148,142,64,95,100,115,19,92,1244
+20104,,"Ocorrências policiais registradas, por tipo",Tentativa de homicídio,,,,282,276,726,109,88,102,51,108,73,79,25,91,1284
+20104,,"Ocorrências policiais registradas, por tipo",Lesão corporal dolosa,,,,9699,7499,29773,2835,392,4738,2862,3506,2574,3449,1585,4304,46971
+20104,,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa por Acidente de Trânsito,,,,6511,5231,23812,1855,3507,3163,2133,3972,1286,246,1159,4277,35554
+20104,,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa outras,,,,407,124,627,61,149,125,62,89,36,36,34,35,1158
+20104,,"Ocorrências policiais registradas, por tipo",Latrocínio,,,,8,15,27,3,6,6,4,2,2,1,0,3,50
+20104,,"Ocorrências policiais registradas, por tipo",Nº de Vítimas de Latrocínio,,,,8,15,27,3,6,6,4,2,2,1,0,3,50
+20104,,"Ocorrências policiais registradas, por tipo",Estupro,,,,600,492,1404,137,156,228,124,188,156,212,56,147,2496
+20104,,"Ocorrências policiais registradas, por tipo",Extorsão mediante seqüestro (6),,,,8,6,2,1,1,0,0,0,0,0,0,0,16
+20104,,"Ocorrências policiais registradas, por tipo",Tráfico de entorpecentes,,,,1345,1025,5257,644,747,999,414,585,397,607,177,687,7627
+20104,,"Ocorrências policiais registradas, por tipo",Roubo - outros(7),,,,27222,11536,1831,2598,3935,1852,752,887,4176,1164,125,2821,57068
+20104,,"Ocorrências policiais registradas, por tipo",Roubo de veículos,,,,8719,4656,3787,524,1515,188,58,100,444,198,9,751,17162
+20104,,"Ocorrências policiais registradas, por tipo",Roubo a Banco,,,,27,18,5,1,1,1,2,0,0,0,0,0,50
+20104,,"Ocorrências policiais registradas, por tipo",Roubo de Carga,,,,1269,538,289,16,106,23,5,3,70,11,1,54,2096
+20104,,"Ocorrências policiais registradas, por tipo",Furto - outros,,,,44453,16135,68671,7488,10488,11877,5797,7203,7844,7679,2076,8219,129259
+20104,,"Ocorrências policiais registradas, por tipo",Furto de veículos,,,,10562,4442,10035,1013,238,1431,357,645,1316,991,90,1812,25039
+20111,,Atividades de polícia judiciária,Total de boletins de ocorrência,,,,164436,114152,375871,40279,53765,60323,32341,40882,34151,39409,1745,57271,654459
+20111,,Atividades de polícia judiciária,Total de termos circunstanciados lavrados pela Polícia Civil (2),,,,3519,4882,38717,3429,4836,5497,6114,4898,2723,2873,355,4797,47118
+20111,,Atividades de polícia judiciária,Total de inquéritos instaurados,,,,25102,17032,49221,5644,6519,7257,4506,6059,5,5717,2449,607,91355
+20111,,Atividades policiais,Prisões efetuadas (em flagrante+ por mandado),,,,6695,5301,17842,2089,256,225,1748,1682,1983,2298,720,2512,29838
+20111,,Atividades policiais,Nº de pessoas presas em flagrante,,,,6863,4131,14917,1694,2086,2315,1261,1492,1619,1891,575,1984,25911
+20111,,Atividades policiais,Nº de pessoas presas por mandado,,,,2218,1905,8174,768,925,1372,1059,968,674,955,409,1044,12297
+20111,,Atividades policiais,Nº de autos de apreensão (art 173 ECA),,,,742,311,1193,101,157,328,102,88,110,144,24,139,2246
+20111,,Atividades policiais,Nº de infratores apreendidos em flagrante,,,,536,576,1784,138,261,382,144,133,177,210,63,276,2896
+20111,,Atividades policiais,Nº de infratores apreendidos por mandado,,,,53,57,362,11,38,41,42,39,79,34,21,57,472
+20111,,Atividades policiais,Nº de revistas pessoais/ identificação,,,,646959,312156,1754934,227701,161298,364195,122977,181758,136265,156837,69948,183976,2714049
+20111,,Atividades policiais,Armas de fogo apreendidas,,,,1309,890,2391,234,359,345,256,257,268,295,92,285,459
+20111,,Atividades policiais,Nº de Veículos Recuperados,,,,8083,4196,7336,863,17,1031,395,390,829,600,79,1449,19615
+20111,,Atividades policiais,Exames Necroscópicos Realizados - IML(5),,,,2575,1685,3838,,,,,,,,,,8098
+20111,,Atividades policiais,Laudos Necroscópicos Expedidos - IML(5),,,,1549,1374,352,,,,,,,,,,6443
+20111,,Atividades policiais,Exames Clínicos Laboratoriais Realizados - IML(5),,,,41786,20301,58705,,,,,,,,,,120792
+20111,,Atividades policiais,Laudos Clínicos Laboratoriais Expedidos - IML(5),,,,36024,18929,56791,,,,,,,,,,111744
+20111,,Atividades policiais,Exames Periciais Realizados - IC(5),,,,44538,25004,95087,,,,,,,,,,164629
+20111,,Atividades policiais,Laudos Periciais Expedidos - IC(5),,,,26679,13055,54294,,,,,,,,,,94028
+20111,,Ocorrências envolvendo policiais civis (3),Pessoas mortas em confronto com a polícia civil em serviço (9),,,,2,1,0,0,0,0,0,0,0,0,0,0,3
+20111,,Ocorrências envolvendo policiais civis (3),Pessoas mortas por policiais civis de folga (9),,,,0,1,2,0,0,0,0,0,2,0,0,0,3
+20111,,Ocorrências envolvendo policiais civis (3),Pessoas feridas em confronto com a polícia civil em serviço,,,,7,9,4,4,0,0,0,0,0,0,0,0,20
+20111,,Ocorrências envolvendo policiais civis (3),Pessoas feridas por policiais civis de folga,,,,0,3,0,0,0,0,0,0,0,0,0,0,3
+20111,,Ocorrências envolvendo policiais civis (3),Policiais civis mortos em serviço,,,,0,0,1,1,0,0,0,0,0,0,0,0,1
+20111,,Ocorrências envolvendo policiais civis (3),Policiais civis feridos em serviço,,,,5,5,7,0,1,0,2,0,0,0,2,2,17
+20111,,Ocorrências envolvendo policiais militares (4),Pessoas mortas em confronto com a polícia militar em serviço (9),,,,58,29,21,0,6,7,0,0,4,2,0,2,108
+20111,,Ocorrências envolvendo policiais militares (4),Pessoas mortas por policiais militares de folga (9),,,,0,0,0,0,0,0,0,0,0,0,0,0,0
+20111,,Ocorrências envolvendo policiais militares (4),Pessoas feridas em confronto com a polícia militar em serviço,,,,40,17,27,5,3,2,0,1,10,1,0,5,84
+20111,,Ocorrências envolvendo policiais militares (4),Pessoas feridas por policiais militares de folga,,,,2,0,0,0,0,0,0,0,0,0,0,0,2
+20111,,Ocorrências envolvendo policiais militares (4),Policiais militares mortos em serviço,,,,3,1,3,0,0,2,0,0,0,0,0,1,7
+20111,,Ocorrências envolvendo policiais militares (4),Policiais militares feridos em serviço,,,,55,14,57,3,10,11,2,2,8,11,3,7,126
+20111,,"Ocorrências policiais registradas, por natureza",Contra a pessoa,,,,32085,25345,101247,10043,13532,15418,9397,1209,883,12014,5066,14857,158677
+20111,,"Ocorrências policiais registradas, por natureza",Contra o patrimônio,,,,10529,45041,128421,13785,22999,19004,9435,1242,17734,11913,345,17681,278752
+20111,,"Ocorrências policiais registradas, por natureza",Contra os costumes,,,,807,718,2213,218,302,313,214,224,266,318,87,271,3738
+20111,,"Ocorrências policiais registradas, por natureza",Entorpecentes,,,,141,1343,9665,835,1139,1987,917,940,855,1048,484,146,12418
+20111,,"Ocorrências policiais registradas, por natureza",Contravencionais,,,,3336,397,14663,1479,1844,2227,1526,1732,832,185,700,2473,21969
+20111,,"Ocorrências policiais registradas, por natureza",Outros criminais (não inclui contravenções),,,,5652,4701,17547,1765,2111,2874,1453,261,1596,2043,908,2187,279
+20111,,"Ocorrências policiais registradas, por natureza","Total de Crimes Violentos ( Hom.Doloso, Roubo, Latrocínio, Estupro e EMS)",,,,36463,17602,24625,3279,5597,2461,964,1356,4915,1755,216,4082,7869
+20111,,"Ocorrências policiais registradas, por natureza",Total de delitos,,,,14858,81118,273756,28125,41927,41823,22942,30016,30113,29186,10695,38929,503454
+20111,,"Ocorrências policiais registradas, por natureza",Não Criminais,,,,81917,35133,11744,12709,1573,18737,9013,12205,10894,12446,6189,19517,23449
+20111,,"Ocorrências policiais registradas, por tipo",Homicídio doloso,,,,225,258,521,93,55,46,29,46,81,66,14,91,1004
+20111,,"Ocorrências policiais registradas, por tipo",Nº de Vítimas em Homicídio Doloso,,,,236,273,545,101,59,47,30,48,83,68,15,94,1054
+20111,,"Ocorrências policiais registradas, por tipo",Homicídio culposo por Acidente de Trânsito,,,,159,163,749,77,114,105,81,86,78,92,36,80,1071
+20111,,"Ocorrências policiais registradas, por tipo",Homicídio Culposo(8),,,,186,174,813,91,125,111,88,94,87,97,36,84,1173
+20111,,"Ocorrências policiais registradas, por tipo",Tentativa de homicídio,,,,299,256,709,108,82,83,43,96,82,112,21,82,1264
+20111,,"Ocorrências policiais registradas, por tipo",Lesão corporal dolosa,,,,10166,7833,29472,2942,4005,4496,2716,3253,2739,3667,1568,4086,47471
+20111,,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa por Acidente de Trânsito,,,,6155,4835,21719,1756,3171,2876,205,3344,1421,2192,1045,3864,32709
+20111,,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa outras,,,,434,167,650,67,175,98,47,90,64,44,29,36,1251
+20111,,"Ocorrências policiais registradas, por tipo",Latrocínio,,,,27,16,42,9,3,12,3,0,4,3,0,8,85
+20111,,"Ocorrências policiais registradas, por tipo",Nº de Vítimas de Latrocínio,,,,27,16,46,9,3,12,4,0,4,4,0,10,89
+20111,,"Ocorrências policiais registradas, por tipo",Estupro,,,,604,534,1561,134,211,230,134,172,215,244,50,171,2699
+20111,,"Ocorrências policiais registradas, por tipo",Extorsão mediante seqüestro (6),,,,7,7,4,2,1,0,1,0,0,0,0,0,18
+20111,,"Ocorrências policiais registradas, por tipo",Tráfico de entorpecentes,,,,1481,125,6123,720,794,1145,477,668,523,748,199,849,8854
+20111,,"Ocorrências policiais registradas, por tipo",Roubo - outros(7),,,,26354,117,1822,2482,3687,1915,738,1027,4175,1225,142,2829,56274
+20111,,"Ocorrências policiais registradas, por tipo",Roubo de veículos,,,,9246,5087,4277,559,164,258,59,111,440,217,10,983,1861
+20111,,"Ocorrências policiais registradas, por tipo",Roubo a Banco,,,,36,10,14,1,2,3,0,1,0,1,0,6,60
+20111,,"Ocorrências policiais registradas, por tipo",Roubo de Carga,,,,1134,353,299,9,110,24,2,3,82,11,1,57,1786
+20111,,"Ocorrências policiais registradas, por tipo",Furto - outros,,,,45522,15483,70461,7229,10802,11974,5933,7793,9076,6985,2238,8431,131466
+20111,,"Ocorrências policiais registradas, por tipo",Furto de veículos,,,,10438,4539,11156,1197,2664,1584,445,644,1341,1075,76,213,26133
+20112,,Atividades de polícia judiciária,Total de boletins de ocorrência,,,,169301,119279,389875,40048,578,63109,35305,43527,32655,39869,17564,59998,678455
+20112,,Atividades de polícia judiciária,Total de termos circunstanciados lavrados pela Polícia Civil (2),,,,3556,5282,38075,3029,4633,5468,5682,5649,2286,2772,3474,5082,46913
+20112,,Atividades de polícia judiciária,Total de inquéritos instaurados,,,,26326,16954,51369,5805,6786,7946,4811,6925,4564,579,2498,6244,94649
+20112,,Atividades policiais,Prisões efetuadas (em flagrante+ por mandado),,,,7173,5665,18933,2206,2622,2727,1874,1766,1764,2434,873,2667,31771
+20112,,Atividades policiais,Nº de pessoas presas em flagrante,,,,7538,4268,14635,1709,2086,2198,1279,1528,1397,189,625,1923,26441
+20112,,Atividades policiais,Nº de pessoas presas por mandado,,,,2339,2096,8357,857,911,1242,1005,1063,617,1116,455,1091,12792
+20112,,Atividades policiais,Nº de autos de apreensão (art 173 ECA),,,,970,405,1475,122,176,532,144,95,102,136,41,127,285
+20112,,Atividades policiais,Nº de infratores apreendidos em flagrante,,,,626,602,2047,173,256,587,199,135,167,174,78,278,3275
+20112,,Atividades policiais,Nº de infratores apreendidos por mandado,,,,83,51,519,59,44,71,51,54,64,69,34,73,653
+20112,,Atividades policiais,Nº de revistas pessoais/ identificação (10),,,,782224,385784,2005810,298675,177624,387413,137012,188197,182518,174203,75395,220316,3173818
+20112,,Atividades policiais,Armas de fogo apreendidas,,,,1721,795,2681,280,370,345,286,291,311,347,103,348,5197
+20112,,Atividades policiais,Nº de Veículos Recuperados,,,,8299,4374,7157,835,1804,902,335,476,789,530,106,138,1983
+20112,,Atividades policiais,Exames Necroscópicos Realizados - IML(5),,,,2632,1613,3765,,,,,,,,,,801
+20112,,Atividades policiais,Laudos Necroscópicos Expedidos - IML(5),,,,2455,1573,3655,,,,,,,,,,7683
+20112,,Atividades policiais,Exames Clínicos Laboratoriais Realizados - IML(5),,,,42992,20033,5982,,,,,,,,,,122845
+20112,,Atividades policiais,Laudos Clínicos Laboratoriais Expedidos - IML(5),,,,4298,19548,58367,,,,,,,,,,120895
+20112,,Atividades policiais,Exames Periciais Realizados - IC(5),,,,49384,26657,98787,,,,,,,,,,174828
+20112,,Atividades policiais,Laudos Periciais Expedidos - IC(5),,,,37607,20891,75659,,,,,,,,,,134157
+20112,,Ocorrências envolvendo policiais civis (3),Pessoas mortas em confronto com a polícia civil em serviço (9),,,,3,3,2,0,0,0,0,0,0,2,0,0,8
+20112,,Ocorrências envolvendo policiais civis (3),Pessoas mortas por policiais civis de folga (9),,,,1,1,0,0,0,0,0,0,0,0,0,0,2
+20112,,Ocorrências envolvendo policiais civis (3),Pessoas feridas em confronto com a polícia civil em serviço,,,,6,6,3,0,1,0,1,0,0,0,0,1,15
+20112,,Ocorrências envolvendo policiais civis (3),Pessoas feridas por policiais civis de folga,,,,1,1,1,1,0,0,0,0,0,0,0,0,3
+20112,,Ocorrências envolvendo policiais civis (3),Policiais civis mortos em serviço,,,,0,0,4,1,0,1,0,0,1,0,1,0,4
+20112,,Ocorrências envolvendo policiais civis (3),Policiais civis feridos em serviço,,,,2,4,6,1,0,0,2,0,1,1,1,0,12
+20112,,Ocorrências envolvendo policiais militares (4),Pessoas mortas em confronto com a polícia militar em serviço (9),,,,70,32,31,6,4,6,1,1,9,2,0,2,133
+20112,,Ocorrências envolvendo policiais militares (4),Pessoas mortas por policiais militares de folga (9),,,,0,0,0,0,0,0,0,0,0,0,0,0,0
+20112,,Ocorrências envolvendo policiais militares (4),Pessoas feridas em confronto com a polícia militar em serviço,,,,21,15,33,5,7,5,0,1,3,1,1,10,69
+20112,,Ocorrências envolvendo policiais militares (4),Pessoas feridas por policiais militares de folga,,,,2,0,0,0,0,0,0,0,0,0,0,0,2
+20112,,Ocorrências envolvendo policiais militares (4),Policiais militares mortos em serviço,,,,2,0,0,0,0,0,0,0,0,0,0,0,2
+20112,,Ocorrências envolvendo policiais militares (4),Policiais militares feridos em serviço,,,,45,13,43,3,8,2,4,8,4,5,3,6,101
+20112,,"Ocorrências policiais registradas, por natureza",Contra a pessoa,,,,31299,24833,101387,9806,13499,1625,10465,12717,7768,11425,5008,14449,157519
+20112,,"Ocorrências policiais registradas, por natureza",Contra o patrimônio,,,,114388,48119,13014,13638,24327,1921,9881,12416,17472,11875,3468,17853,292647
+20112,,"Ocorrências policiais registradas, por natureza",Contra os costumes,,,,783,684,198,176,288,287,231,241,186,297,41,233,3447
+20112,,"Ocorrências policiais registradas, por natureza",Entorpecentes,,,,1633,1357,9288,830,1112,1836,928,960,634,1016,490,1482,12278
+20112,,"Ocorrências policiais registradas, por natureza",Contravencionais,,,,3504,3351,12693,1208,1501,2113,1562,1845,680,1391,612,1781,19548
+20112,,"Ocorrências policiais registradas, por natureza",Outros criminais (não inclui contravenções),,,,6288,5045,20106,1508,2416,3257,1814,2939,1484,2641,1216,2831,31439
+20112,,"Ocorrências policiais registradas, por natureza","Total de Crimes Violentos ( Hom.Doloso, Roubo, Latrocínio, Estupro e EMS)",,,,38096,18597,261,3394,6208,2708,1091,1251,5144,1979,242,4083,82793
+20112,,"Ocorrências policiais registradas, por natureza",Total de delitos,,,,157895,83389,275594,27166,43143,42953,24881,31118,28224,28645,10835,38629,516878
+20112,,"Ocorrências policiais registradas, por natureza",Não Criminais,,,,89162,36924,126804,13217,16797,21052,11363,13283,10853,13041,5998,212,25289
+20112,,"Ocorrências policiais registradas, por tipo",Homicídio doloso,,,,257,248,505,91,61,56,28,35,66,58,30,80,101
+20112,,"Ocorrências policiais registradas, por tipo",Nº de Vítimas em Homicídio Doloso,,,,277,267,525,97,62,56,29,35,72,62,31,81,1069
+20112,,"Ocorrências policiais registradas, por tipo",Homicídio culposo por Acidente de Trânsito,,,,219,168,918,83,142,142,80,102,99,111,32,127,1305
+20112,,"Ocorrências policiais registradas, por tipo",Homicídio Culposo(8),,,,242,180,964,88,151,148,83,112,102,116,33,131,1386
+20112,,"Ocorrências policiais registradas, por tipo",Tentativa de homicídio,,,,262,240,667,116,67,91,51,92,64,96,22,68,1169
+20112,,"Ocorrências policiais registradas, por tipo",Lesão corporal dolosa,,,,96,7433,27577,2654,3689,4427,2787,3288,2392,3155,1393,3792,4461
+20112,,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa por Acidente de Trânsito,,,,6847,5727,25354,1928,3598,3361,3035,3919,1288,2541,1185,4499,37928
+20112,,"Ocorrências policiais registradas, por tipo",Lesão corporal culposa outras,,,,365,176,526,52,114,94,49,97,55,19,14,32,1067
+20112,,"Ocorrências policiais registradas, por tipo",Latrocínio,,,,26,23,42,7,2,7,2,5,5,4,0,10,91
+20112,,"Ocorrências policiais registradas, por tipo",Nº de Vítimas de Latrocínio,,,,27,23,44,7,2,8,2,5,5,4,0,11,94
+20112,,"Ocorrências policiais registradas, por tipo",Estupro,,,,582,559,1409,122,204,220,129,167,154,222,32,159,255
+20112,,"Ocorrências policiais registradas, por tipo",Extorsão mediante seqüestro (6),,,,6,8,2,1,0,0,0,0,1,0,0,0,16
+20112,,"Ocorrências policiais registradas, por tipo",Tráfico de entorpecentes,,,,1782,1295,6096,688,825,1098,494,677,477,726,229,882,9173
+20112,,"Ocorrências policiais registradas, por tipo",Roubo - outros(7),,,,27674,12754,19656,2605,4234,2168,882,935,441,142,168,2834,60084
+20112,,"Ocorrências policiais registradas, por tipo",Roubo de veículos,,,,9551,5005,4486,568,1707,257,50,109,508,275,12,1,19042
+20112,,"Ocorrências policiais registradas, por tipo",Roubo a Banco,,,,42,13,12,0,3,4,0,1,0,0,1,3,67
+20112,,"Ocorrências policiais registradas, por tipo",Roubo de Carga,,,,974,285,300,16,84,23,4,2,75,10,1,85,1559
+20112,,"Ocorrências policiais registradas, por tipo",Furto - outros,,,,5265,16673,70029,7094,11234,11798,6054,7725,834,6944,2219,8621,139352
+20112,,"Ocorrências policiais registradas, por tipo",Furto de veículos,,,,10638,4577,11028,1096,2783,1669,406,679,1271,922,100,2102,26243
